@@ -5,4 +5,3 @@ resource "aws_instance" "name" {
     name = "My-Killer-Machine"
   }  
 }
-#
